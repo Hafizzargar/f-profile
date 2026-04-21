@@ -25,7 +25,7 @@ export default function About() {
             Hi, I’m <span style={{ color: 'var(--accent)' }}>Hafiz Basharat</span> — a Full Stack Developer crafting immersive, high-performance web experiences.
           </p>
           <p style={{ fontSize: '1.1rem', color: 'var(--text-muted)', marginBottom: '20px' }}>
-            I specialize in building modern, scalable applications using **Next.js**, **Three.js**, and **Node.js** — combining clean architecture with visually striking interfaces.
+            I specialize in building modern, scalable applications using **Next.js**, **Three.js**, **Node.js**, and **Angular** (with 1 year of professional experience) — combining clean architecture with visually striking interfaces.
           </p>
           <p style={{ fontSize: '1.1rem', color: 'var(--text-muted)' }}>
             From real-time dashboards to interactive 3D websites, I transform ideas into fast, elegant, and production-ready products.
