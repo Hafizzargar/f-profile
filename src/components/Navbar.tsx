@@ -37,6 +37,7 @@ export default function Navbar() {
       </div>
 
       <div style={{ display: 'flex', gap: '30px', fontSize: '0.9rem', fontWeight: 500 }}>
+        <a href="#about" style={{ opacity: 0.7, transition: 'opacity 0.2s' }}>About</a>
         <a href="#skills" style={{ opacity: 0.7, transition: 'opacity 0.2s' }}>Skills</a>
         <a href="#experience" style={{ opacity: 0.7, transition: 'opacity 0.2s' }}>Experience</a>
         <a href="#projects" style={{ opacity: 0.7, transition: 'opacity 0.2s' }}>Projects</a>
